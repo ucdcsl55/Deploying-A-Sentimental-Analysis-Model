@@ -62,5 +62,5 @@ Create notebook instance → Git repositories setting
 6. **You're done!** Click on Create notebook instance button.
 
 Your notebook instance is now set up and ready to be used! Once the Notebook instance has loaded, you will see a screen similar to the following snapshot.
-
+![CreateNotebookInstance](https://github.com/ucdcsl55/Deploying-A-Sentimental-Analysis-Model/blob/main/images/CreateNotebookInstance.png?raw=true)
 A successfully created notebook instance (Status: InService). You can access your notebook using the Open Jupyter Action.
