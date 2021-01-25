@@ -9,7 +9,7 @@ Here are the steps....
 ### Step 1. Go to AWS SageMaker
 
 First, start by logging in to the AWS console, opening the SageMaker dashboard, and clicking on Create notebook instance.
-[!AmazonSage](https://raw.githubusercontent.com/ucdcsl55/Deploying-A-Sentimental-Analysis-Model/main/images/AmazonSageMaker.png)
+[!AmazonSage](https://raw.githubusercontent.com/ucdcsl55/Deploying-A-Sentimental-Analysis-Model/main/images/AmazonSageMaker.jpg)
 
 AWS SageMaker → Notebook instances service
 Step 2. Create a notebook instance
