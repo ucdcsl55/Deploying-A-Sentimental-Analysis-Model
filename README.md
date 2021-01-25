@@ -10,6 +10,7 @@ Here are the steps....
 
 First, start by logging in to the AWS console, opening the SageMaker dashboard, and clicking on Create notebook instance.
 [!AmazonSage](https://raw.githubusercontent.com/ucdcsl55/Deploying-A-Sentimental-Analysis-Model/main/images/AmazonSageMaker.jpg)
+![AmazonSage](https://github.com/ucdcsl55/Generate-TV-Scripts/blob/main/basic_LSTM.png?raw=true)
 
 AWS SageMaker → Notebook instances service
 Step 2. Create a notebook instance
